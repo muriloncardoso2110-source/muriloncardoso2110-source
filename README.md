@@ -57,11 +57,14 @@ Sou o cara que pega um processo manual chato, amarra com código e automação, 
 </p>
 
 <p align="center">
-  <img src="https:// Komarev.com/ghpvc/?username=muriloncardoso2110-source&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Build-with%20 passion%20%26%20automation-0078D4?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=muriloncardoso2110-source&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
   <br>
-  <sub><i>Configured with ❤️ by Murilo. Last update: 2026.</i></sub>
+  <sub>Configurado com ❤️ por Murilo | 2026</sub>
 </p>
+
+<div align="right">
+  <sub>🎷</sub>
+</div>
 
 <div align="right">
   <br>
