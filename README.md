@@ -15,7 +15,7 @@ Sou o cara que pega um processo manual chato, amarra com código e automação, 
 
 * 📡 **Hoje:** Automatizando processos e integrando sistemas na **Razzo**.
 * ☁️ **Foco:** Arquitetura Azure, pipelines CI/CD e Infraestrutura como Código.
-* 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas na UNICID.
+* 🎓 **Estudando:** Cloud, DevOps e aprofundando nas linguagens que atuo.
 
 ---
 
