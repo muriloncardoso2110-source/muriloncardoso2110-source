@@ -1,53 +1,56 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/muriloncardoso2110-source/main/assets/SEU_BANNER.png" alt="Banner Murilo Cardoso" width="100%">
+  <img src="LINK_DA_SUA_IMAGEM_AQUI" alt="Banner Murilo Cardoso" width="100%">
 </p>
-
-# 👋 Olá, eu sou o Murilo!
-
-### 🚀 Analista e Desenvolvedor de Sistemas | Cloud & DevOps Enthusiast
-
-Sou um desenvolvedor focado em criar soluções escaláveis e automatizadas, unindo o desenvolvimento de sistemas com a cultura DevOps.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Desenvolvimento e Web
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-</p>
-
-### ☁️ Cloud & DevOps 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-### ⚙️ Automação e Low-Code 
-<p align="left">
-  <img src="https://img.shields.io/badge/TOTVS%20Fluig-005691?style=for-the-badge&logo=totvs&logoColor=white" alt="Fluig">
-  <img src="https://img.shields.io/badge/Power%20Automate-001D6E?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
----
-
-## 📊 Estatísticas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Principais Linguagens" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=muriloncardoso2110-source&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## 🤝 Vamos conversar?
+# 🚀 Sobre Mim
+
+Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos manuais em fluxos digitais eficientes. Atualmente, atuo na intersecção entre **Desenvolvimento Fullstack** e **Cultura DevOps**, utilizando automação para escalar soluções de impacto.
+
+- ⚡ **Foco Atual:** Especialização em Cloud Computing (Azure) e Automação de Infraestrutura.
+- 🛠 **Diferencial:** Domínio da plataforma **TOTVS Fluig** integrado à Microsoft Power Platform.
+- 📚 **Aprendizado Contínuo:** Cursando Análise e Desenvolvimento de Sistemas (UNICID) e trilhas avançadas na Alura/FIAP.
+
+---
+
+## 🛠 Tech Stack & Ecosystem
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Java`, `JavaScript (ES6+)`, `SQL (Oracle/SQL Server)`, `HTML5/CSS3` |
+| **Cloud & Ops** | `Microsoft Azure`, `Docker`, `Linux (Ubuntu/Debian)`, `Git/GitHub` |
+| **Automação** | `TOTVS Fluig`, `Power Automate`, `Power Apps`, `Copilot Studio` |
+| **Monitoramento** | `Zabbix`, `GLPI`, `Active Directory` |
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muriloncardoso2110-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloncardoso2110-source&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloncardoso2110-source&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muriloncardoso2110-source/muriloncardoso2110-source/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+## 📫 Conecte-se Comigo
 
 <p align="center">
   <a href="https://linkedin.com/in/murilodevti" target="_blank">
@@ -56,4 +59,11 @@ Sou um desenvolvedor focado em criar soluções escaláveis e automatizadas, uni
   <a href="mailto:murilunc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://wa.me/5511910400539" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Configurado com ❤️ por Murilo Cardoso. Última atualização: 2026.</sub>
 </p>
