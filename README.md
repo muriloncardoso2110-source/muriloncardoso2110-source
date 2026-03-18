@@ -1,59 +1,62 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=100&lines=MURILO+CARDOSO;DEVELOPER;CLOUD+%26+DEVOPS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=0078D4&center=true&vCenter=true&width=600&height=120&lines=MURILO+CARDOSO;ANALISTA+DE+SISTEMAS;FULLSTACK+DEVELOPER;CLOUD+%26+DEVOPS+ENTHUSIAST" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muriloncardoso2110-source&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=muriloncardoso2110-source&label=PROFILE+VIEWS&color=0078D4&style=for-the-badge" alt="Views" />
 </p>
 
 ---
 
-# 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos complexos em fluxos digitais automatizados. Atualmente, atuo na intersecção entre **Desenvolvimento Fullstack** e **Cultura DevOps**, utilizando automação para escalar soluções de alto impacto.
+Sou um **Resolvedor de Problemas**. Transformo gargalos operacionais em fluxos automatizados de alta performance. Minha expertise transita entre o **Desenvolvimento Fullstack** e a **Cultura DevOps**, com foco em entregar soluções escaláveis e resilientes.
 
-- 🛠 **Especialidade:** Integrações complexas na plataforma **TOTVS Fluig** e Microsoft Power Platform.
-- ☁️ **Foco:** Migração de workloads para **Azure** e implementação de pipelines CI/CD.
-- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UNICID).
-
----
-
-## 🛠 Tech Stack & Ecosystem
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Java`, `JavaScript (ES6+)`, `SQL (Oracle/SQL Server)`, `HTML5/CSS3` |
-| **Cloud & Ops** | `Microsoft Azure`, `Docker`, `Linux (Ubuntu/Debian)`, `Git/GitHub` |
-| **Automação** | `TOTVS Fluig`, `Power Automate`, `Power Apps`, `Copilot Studio` |
-| **Ecosistema IT** | `Zabbix`, `GLPI`, `Active Directory`, `Azure DevOps` |
+* 🔭 **Atualmente:** Otimizando processos e integrando ecossistemas na **Razzo**.
+* ☁️ **Foco:** Arquitetura Cloud (Azure), Automação de Infraestrutura e Pipelines de CI/CD.
+* 🎓 **Acadêmico:** Análise e Desenvolvimento de Sistemas na UNICID.
 
 ---
 
-## 📊 My GitHub Stats (All-Time Activity)
+## 🛠 Tech Stack Ecosystem
+
+### 💻 Desenvolvimento & Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Infraestrutura
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ⚙️ Low-Code & Automação de Processos
+![TOTVS](https://img.shields.io/badge/TOTVS_Fluig-%23005691.svg?style=for-the-badge&logo=totvs&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-%23001D6E.svg?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power_Apps-%230078D4.svg?style=for-the-badge&logo=microsoftpowerapps&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Performance & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muriloncardoso2110-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloncardoso2110-source&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muriloncardoso2110-source&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloncardoso2110-source&layout=compact&theme=tokyonight&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloncardoso2110-source&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloncardoso2110-source&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </p>
 
 ---
 
-## 📫 Conecte-se Comigo
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/murilodevti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:murilunc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Last update: 2026 • Build with passion and automation.</sub>
+  <sub><i>"The best way to predict the future is to automate it."</i></sub><br>
+  <sub>Last push: 2026 • Build with ☕ and ☁️</sub>
 </p>
