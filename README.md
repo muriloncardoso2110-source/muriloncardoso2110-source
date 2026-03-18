@@ -59,7 +59,7 @@ Sou o cara que pega um processo manual, amarra com código e automação, e faz 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muriloncardoso2110-source&label=Profile%20Views&color=0078D4&style=flat-square" alt="Views" />
   <br>
-  <sub>Configurado com ❤️ por Murilo | 2026</sub>
+  <sub>Configurado e atualizado por Murilo | 2026</sub>
 </p>
 
 <div align="right">
