@@ -21,7 +21,7 @@ Sou um desenvolvedor focado em criar soluções escaláveis e automatizadas, uni
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-### ☁️ Cloud & DevOps (Seu foco de migração)
+### ☁️ Cloud & DevOps 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -29,7 +29,7 @@ Sou um desenvolvedor focado em criar soluções escaláveis e automatizadas, uni
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-### ⚙️ Automação e Low-Code (Seu diferencial)
+### ⚙️ Automação e Low-Code 
 <p align="left">
   <img src="https://img.shields.io/badge/TOTVS%20Fluig-005691?style=for-the-badge&logo=totvs&logoColor=white" alt="Fluig">
   <img src="https://img.shields.io/badge/Power%20Automate-001D6E?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate">
@@ -38,7 +38,7 @@ Sou um desenvolvedor focado em criar soluções escaláveis e automatizadas, uni
 
 ---
 
-## 📊 Estatísticas (Efeito 'Uau')
+## 📊 Estatísticas 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
