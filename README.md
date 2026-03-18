@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="911" height="316" alt="image" src="https://github.com/user-attachments/assets/fafa82a3-a885-4f65-8fdf-36053d153d76" />
-" alt="Banner Murilo Cardoso" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=100&lines=MURILO+CARDOSO;DEVELOPER;CLOUD+%26+DEVOPS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,11 +11,11 @@
 
 # 🚀 Sobre Mim
 
-Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos manuais em fluxos digitais eficientes. Atualmente, atuo na intersecção entre **Desenvolvimento Fullstack** e **Cultura DevOps**, utilizando automação para escalar soluções de impacto.
+Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos complexos em fluxos digitais automatizados. Atualmente, atuo na intersecção entre **Desenvolvimento Fullstack** e **Cultura DevOps**, utilizando automação para escalar soluções de alto impacto.
 
-- ⚡ **Foco Atual:** Especialização em Cloud Computing (Azure) e Automação de Infraestrutura.
-- 🛠 **Diferencial:** Domínio da plataforma **TOTVS Fluig** integrado à Microsoft Power Platform.
-- 📚 **Aprendizado Contínuo:** Cursando Análise e Desenvolvimento de Sistemas (UNICID) e trilhas avançadas na Alura/FIAP.
+- 🛠 **Especialidade:** Integrações complexas na plataforma **TOTVS Fluig** e Microsoft Power Platform.
+- ☁️ **Foco:** Migração de workloads para **Azure** e implementação de pipelines CI/CD.
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (UNICID).
 
 ---
 
@@ -27,14 +26,14 @@ Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos man
 | **Linguagens** | `Java`, `JavaScript (ES6+)`, `SQL (Oracle/SQL Server)`, `HTML5/CSS3` |
 | **Cloud & Ops** | `Microsoft Azure`, `Docker`, `Linux (Ubuntu/Debian)`, `Git/GitHub` |
 | **Automação** | `TOTVS Fluig`, `Power Automate`, `Power Apps`, `Copilot Studio` |
-| **Monitoramento** | `Zabbix`, `GLPI`, `Active Directory` |
+| **Ecosistema IT** | `Zabbix`, `GLPI`, `Active Directory`, `Azure DevOps` |
 
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats (All-Time Activity)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muriloncardoso2110-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muriloncardoso2110-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloncardoso2110-source&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
@@ -42,12 +41,7 @@ Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos man
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloncardoso2110-source&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muriloncardoso2110-source/muriloncardoso2110-source/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+> **Nota:** Para que os commits da empresa (privados) apareçam nos gráficos acima, clique no seu gráfico de contribuições no seu perfil, vá em **Contribution settings** e marque **"Private contributions"**.
 
 ---
 
@@ -60,11 +54,8 @@ Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos man
   <a href="mailto:murilunc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://wa.me/5511910400539" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
 </p>
 
 <p align="center">
-  <sub>Configurado com ❤️ por Murilo Cardoso. Última atualização: 2026.</sub>
+  <sub>Last update: 2026 • Build with passion and automation.</sub>
 </p>
