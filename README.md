@@ -41,8 +41,6 @@ Sou **Analista e Desenvolvedor de Sistemas** focado em transformar processos com
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloncardoso2110-source&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
-> **Nota:** Para que os commits da empresa (privados) apareçam nos gráficos acima, clique no seu gráfico de contribuições no seu perfil, vá em **Contribution settings** e marque **"Private contributions"**.
-
 ---
 
 ## 📫 Conecte-se Comigo
