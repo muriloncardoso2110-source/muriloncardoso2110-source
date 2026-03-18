@@ -11,7 +11,7 @@
 
 # 🚀 Olá, prazer... sou o Murilo!
 
-Sou o cara que pega um processo manual chato, amarra com código e automação, e faz ele rodar em Cloud, ou em aplicativos e sites que tiram a parte manual. Me movo na fronteira entre o **Desenvolvimento Fullstack** e a **Cultura DevOps**, focado em entregar soluções que funcionam e escalam.
+Sou o cara que pega um processo manual, amarra com código e automação, e faz ele rodar em Cloud, ou em aplicativos e sites que tiram a parte manual. Me movo na fronteira entre o **Desenvolvimento Fullstack** e a **Cultura DevOps**, focado em entregar soluções que funcionam e escalam.
 
 * 📡 **Hoje:** Automatizando processos e integrando sistemas na **Razzo**.
 * ☁️ **Foco:** Arquitetura Azure, pipelines CI/CD e Infraestrutura como Código.
