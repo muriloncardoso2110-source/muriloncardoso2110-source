@@ -65,9 +65,3 @@ Sou o cara que pega um processo manual chato, amarra com código e automação, 
 <div align="right">
   <sub>🎷</sub>
 </div>
-
-<div align="right">
-  <br>
-  <br>
-  <sub>🎷</sub>
-</div>
