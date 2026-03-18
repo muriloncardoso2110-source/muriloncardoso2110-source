@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" alt="Banner Murilo Cardoso" width="100%">
+  <img src="<img width="911" height="316" alt="image" src="https://github.com/user-attachments/assets/fafa82a3-a885-4f65-8fdf-36053d153d76" />
+" alt="Banner Murilo Cardoso" width="100%">
 </p>
 
 <p align="center">
